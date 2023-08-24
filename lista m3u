@@ -1,13 +1,1 @@
-#EXTM3U
-#EXTINF:-1,LAVS_LIGA1PLAY
-https://762c-38-25-25-190.ngrok-free.app/hls/stream.m3u8
-#EXTINF:-1,#VAMOS por M+ FHD
-http://stalkertvlatinopanel.com:8080/play/IiHJOHqMxgf6XOkZQw3ssuqNxpdWMDxCDyqWH_DGYUQ/m3u8
-#EXTINF:-1,10 EL CANAL URUGUAYO HD
-http://stalkertvlatinopanel.com:8080/play/IiHJOHqMxgf6XOkZQw3ssg2hxC5mre4RH6Paz9f3IEY/m3u8
-#EXTINF:-1,MOVISTAR PLUS por M+ FHD
-http://stalkertvlatinopanel.com:8080/play/IiHJOHqMxgf6XOkZQw3ssq-y7EEqKWPfAZcEKErhd0M/m3u8
-#EXTINF:-1,MOVISTAR PLUS por M+ SD
-http://stalkertvlatinopanel.com:8080/play/IiHJOHqMxgf6XOkZQw3ssuaUSu7nlufYxLMagoAgkhI/m3u8
-#EXTINF:-1,CASTILLA LA MANCHA MEDIA FHD
-http://stalkertvlatinopanel.com:8080/play/IiHJOHqMxgf6XOkZQw3sss8pha8UOm_wwByRbbYynSY/m3u8
+
